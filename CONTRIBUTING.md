@@ -59,7 +59,7 @@ docs: [Week1] README에 GDB 팁 추가
 - PR 제목 예시:
 ```
 
-\[Week1]\[jaehyeok] alarm clock 기능 구현
+[Week1][jaehyeok] alarm clock 기능 구현
 
 ```
 
