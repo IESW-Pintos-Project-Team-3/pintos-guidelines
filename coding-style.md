@@ -27,12 +27,16 @@ void example_function(int x) {
 - 함수 정의는 **두 줄 간격**으로 구분
 
 ```c
-void first_function(void) {
+void
+first_function(void)
+{
     // ...
 }
 
 
-void second_function(void) {
+void
+second_function(void)
+{
     // ...
 }
 ```
